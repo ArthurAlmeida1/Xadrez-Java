@@ -42,7 +42,7 @@ O tabuleiro foi projetado para que fosse feito jogadas mais facilitadas, as joga
 
 # Como jogar
 
-Para jogar pode baixar o arquivo ou clonar ele aqui no GitHub e para executar ele é necessário abrir a pasta >bin<, botão direito dentro dela e depois executar no Git Bash usando o comando: <br>
+Para jogar é só baixar o arquivo .zip aqui no GitHub e para executar ele é necessário abrir a pasta >bin<, botão direito dentro dela e depois executar no Git Bash usando o comando: <br>
 
 <h3> java application/Program </h3><br>
 
